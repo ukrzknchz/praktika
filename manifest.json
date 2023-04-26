@@ -5,7 +5,6 @@
     "display": "fullscreen",
     "background_color": "#ffffff",
     "theme_color": "#324950",
-    "orientation": "portrait",
     "icons": [
       {
         "src": "/icons/app-icon-48x48.png",
